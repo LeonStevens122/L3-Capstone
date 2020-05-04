@@ -1,5 +1,5 @@
 # Leon Stevens - Level 3 Capstone 
-#[MERN Blogging Application](https://makemyblog.herokuapp.com)
+#[MERN Blogging Application](https://github.com/LeonStevens122/L3-Capstone.git)
 
 
 
