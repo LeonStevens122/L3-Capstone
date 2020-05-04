@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\layout",
+    "\\client\\src\\containers\\layout",
+    "\\client\\src\\containers\\posts",
+    "\\config",
+    "\\middleware",
+    "\\models",
+    "\\validation"
+  ],
+  "SelectedNode": "\\client\\package.json",
+  "PreviewInSolutionExplorer": false
+}
