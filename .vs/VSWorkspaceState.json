@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\client",
+    "\\client\\src",
     "\\client\\src\\components",
-    "\\client\\src\\components\\layout",
-    "\\client\\src\\containers\\layout",
-    "\\client\\src\\containers\\posts",
-    "\\config",
-    "\\middleware",
-    "\\models",
-    "\\validation"
+    "\\client\\src\\components\\auth",
+    "\\client\\src\\components\\form",
+    "\\client\\src\\components\\posts",
+    "\\client\\src\\containers",
+    "\\client\\src\\utils",
+    "\\routes"
   ],
-  "SelectedNode": "\\client\\package.json",
+  "SelectedNode": "\\client\\src\\containers\\auth\\LoginPage.js",
   "PreviewInSolutionExplorer": false
 }
