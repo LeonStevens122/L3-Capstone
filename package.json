@@ -36,7 +36,7 @@
       "react-social-auth": "^1.1.8",
       "react-social-login": "^3.4.7",
       "react-social-login-buttons": "^3.0.0",
-      "validator": "^11.1.0"
+      "validator": "^13.7.0"
    },
    "devDependencies": {
       "nodemon": "^1.19.1"
